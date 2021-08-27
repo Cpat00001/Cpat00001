@@ -1,5 +1,5 @@
-- 🌱 I’m currently learning ...never stop learning,everyday new things
-- 👀 I’m interested in ...
+- 🌱 Hello World -> I'm Patryk.
+- 👀 I’m interested in ...it's a long list,ask me later.
 
 <!---
 Cpat00001/Cpat00001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
