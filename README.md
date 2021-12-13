@@ -1,5 +1,4 @@
-- 🌱 Hello World -> I'm Patryk.
-- 👀 I’m interested in ...it's a long list,ask me later.
+- 🌱 Hello World -> I'm Patryk:)
 
 <!---
 Cpat00001/Cpat00001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
